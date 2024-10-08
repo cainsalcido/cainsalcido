@@ -3,7 +3,7 @@
 # 💽 cain
  
 🐦 [email me](mailto:671231@tsas.org) | 
-🕸️ [webpage] (https://cainsalcido.dev) | ❓ next project **website**
+🕸️ [webpage](https://cainsalcido.dev) | ❓ next project **website**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=cainsalcido&label=Stalkers&color=000000&style=plastic" alt="cainsalcido" /> </p>
 
