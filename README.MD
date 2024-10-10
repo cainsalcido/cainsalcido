@@ -18,7 +18,7 @@ Hi, I'm Cain Salcido, a passionate software developer with a strong background i
 ## Experience
 --------------
 
-* **[Founder**, [Flow] ([9/27/24 - ])
+* (**[Founder**, [Flow] ([9/27/24 - ])
 	+ [I founded a software development company with it's main focus on coding affordable and cheap premium Discord bots.]
 	+ [Our discord bots reached over 250 servers, with active member usage.]
 
