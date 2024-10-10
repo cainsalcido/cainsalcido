@@ -26,7 +26,7 @@ a passionate software developer with a strong background in building scalable, e
 ## Personal Projects 🔨
 --------------------
 
-* **[To Do List]**: [To-Do List is an innovative react.js project which is user-friendly, lighting-fast, and most importantly helps you keep on track.]
+* **[To Do List](https://github.com/cainsalcido/to-do)**
 
 ## Contact 📩
 ------------
