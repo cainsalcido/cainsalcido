@@ -1,9 +1,9 @@
 
 
-# Hi, I'm Cain Salcido, 
+#  👋 Hi, I'm Cain Salcido, 
 a passionate software developer with a strong background in building scalable, efficient, and maintainable applications. With a solid foundation in computer science and a keen eye for detail, I've developed a versatile skill set that spans multiple programming languages and technologies.
 
-## Technical Skills
+## Technical Skills 💻
 --------------------
 
 * **JavaScript**: Proficient in JavaScript, with experience in building complex web applications using modern frameworks like React and Vue.
@@ -15,7 +15,7 @@ a passionate software developer with a strong background in building scalable, e
 * **Next.js**: Experienced in building server-side rendered and statically generated applications using Next.js, with a strong understanding of its core concepts and ecosystem.
 
 
-## Experience
+## Experience ⌚
 --------------
 
 * (**[Founder**, [Flow] ([9/27/24 - ])
@@ -23,14 +23,14 @@ a passionate software developer with a strong background in building scalable, e
 	+ [Our discord bots reached over 250 servers, with active member usage.]
 
 
-## Personal Projects
+## Personal Projects 🔨
 --------------------
 
 * **[To Do List]**: [To-Do List is an innovative react.js project which is user-friendly, lighting-fast, and most importantly helps you keep on track.]
 
-## Contact
+## Contact 📩
 ------------
 
 * **Email**: [671231@tsas.org]
 
-## Byeeee
+## Byeeee 😉
