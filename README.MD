@@ -6,13 +6,12 @@ a passionate software developer with a flair for building scalable, efficient, a
 ## Technical Skills 💻
 --------------------
 
-* **JavaScript**: Proficient in JavaScript, with experience in building complex web applications using modern frameworks like React and Vue.
-* **TypeScript**:  Experienced in using TypeScript to build robust and maintainable applications, with a strong understanding of its type system and ecosystem.
-* **Vue**: Skilled in building scalable and efficient applications using Vue.js, with a deep understanding of its core concepts and ecosystem.
-* **React**: Experienced in building complex web applications using React, with a strong understanding of its component-based architecture and ecosystem.
-* **Java**: Proficient in Java, with experience in building scalable and efficient applications using Spring Boot and other Java frameworks.
-* **Python**: Skilled in Python, with experience in building data-driven applications using popular libraries like Pandas and NumPy.
-* **Next.js**: Experienced in building server-side rendered and statically generated applications using Next.js, with a strong understanding of its core concepts and ecosystem.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=cainsalcido&label=Stalkers&color=000000&style=plastic" alt="cainsalcido" /> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cainsalcido&show_icons=true&theme=dark&locale=en" alt="cainsalcido" /></p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,java,python)](https://skillicons.dev)
 
 
 ## Experience ⌚
