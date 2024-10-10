@@ -1,6 +1,7 @@
 
 
-Hi, I'm Cain Salcido, a passionate software developer with a strong background in building scalable, efficient, and maintainable applications. With a solid foundation in computer science and a keen eye for detail, I've developed a versatile skill set that spans multiple programming languages and technologies.
+# Hi, I'm Cain Salcido, 
+a passionate software developer with a strong background in building scalable, efficient, and maintainable applications. With a solid foundation in computer science and a keen eye for detail, I've developed a versatile skill set that spans multiple programming languages and technologies.
 
 ## Technical Skills
 --------------------
