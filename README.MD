@@ -32,5 +32,3 @@ a passionate software developer with a flair for building scalable, efficient, a
 
 * **Email**: [671231@tsas.org]
 
-## Byeeee 😉 
-Thanks for stopping by! If you're looking for a passionate and skilled software developer who's always up for a challenge, let's connect! 🤝
