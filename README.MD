@@ -1,7 +1,7 @@
 
 
 #  👋 Hi, I'm Cain Salcido, 
-a passionate software developer with a flair for building scalable, efficient, and maintainable applications that make a real impact! With a solid foundation in computer science and a keen eye for detail, I've developed a versatile skill set that spans multiple programming languages and technologies.
+a passionate software developer with a flair for building scalable, efficient, and maintainable applications that have an impact! I plan to study computer science.
 
 ## Technical Skills 💻
 --------------------
