@@ -11,7 +11,7 @@ a passionate software developer with a flair for building scalable, efficient, a
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cainsalcido&show_icons=true&theme=dark&locale=en" alt="cainsalcido" /></p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,kotlin,nodejs,java,python, cpp, c#, tailwind)](https://skillicons.dev)
 
 
 ## Experience ⌚
