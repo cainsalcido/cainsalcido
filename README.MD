@@ -29,5 +29,5 @@ a passionate software developer with a flair for building scalable, efficient, a
 ## Contact 📩
 ------------
 
-* **Email**: [671231@tsas.org]
+* **Email**: (mailto)[671231@tsas.org]
 
